@@ -1,0 +1,14 @@
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.csproj.AssemblyReference.cache
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.AssemblyInfoInputs.cache
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.AssemblyInfo.cs
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.csproj.CoreCompileInputs.cache
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.exe
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.deps.json
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.runtimeconfig.json
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.runtimeconfig.dev.json
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.dll
+D:\GitsIdBackendTest\GitsIdBackendTest\bin\Debug\netcoreapp3.1\GitsIdBackendTest.pdb
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.dll
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.pdb
+D:\GitsIdBackendTest\GitsIdBackendTest\obj\Debug\netcoreapp3.1\GitsIdBackendTest.genruntimeconfig.cache
