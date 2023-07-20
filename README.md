@@ -56,7 +56,7 @@ Jika kita hapus semua konstanta dari kompleksitas algoritma tersebut, maka hanya
 <img src="https://github.com/driskimaulana/driskimaulana-GI-test/blob/master/Soal1_Results.png" width="400" height="200" />
 
 #### Soal 2
-<img src="https://github.com/driskimaulana/driskimaulana-GI-test/blob/master/Soal2_Results.png" />
+<img src="https://github.com/driskimaulana/driskimaulana-GI-test/blob/master/Soal2_Results.png" width="400" />
 
 #### Soal 3
 <img src="https://github.com/driskimaulana/driskimaulana-GI-test/blob/master/Soal3_Results.png" width="400" height="200" />
