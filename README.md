@@ -5,7 +5,7 @@
 
 Berikut adalah algoritma yang saya buat untuk permasalahan balanced bracket: (perhatikan nomor line di sebelah kiri)
 
-![Balanced Bracket](https://res.cloudinary.com/dscbb3cu2/image/upload/v1689869446/Screenshot_2023-07-20_230922_bri3ew.png)
+<img src="https://res.cloudinary.com/dscbb3cu2/image/upload/v1689869446/Screenshot_2023-07-20_230922_bri3ew.png" width="400" />
 
 Pada fungsi tersebut terdapat beberapa basic operation, seperti assignment, perulangan, hingga percabangan.
 
